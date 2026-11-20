@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "CCTV PPE Compliance Detection Dataset (synthetic sample)",
+  "description": "<p>Synthetic fixed-CCTV images of workers on construction sites, in warehouses and in workshops, whose hard hats, hi-vis vests and gloves are worn correctly, worn wrongly (hat held or set down, chin strap loose, worn backwards; vest open or tied around the waist) or missing (cap, beanie or bare head; orange clothing that is not hi-vis; bare hands). 200 images (46 in night infrared) with 2012 bounding boxes in 9 classes (person, hardhat, hardhat_wrong, no_hardhat, vest, vest_wrong, no_vest, gloves, no_gloves), in YOLO and COCO format.</p><p>The images are fully synthetic: no real people and no real sites. Each image was generated to a scene and camera specification, labelled automatically, checked by a vision-language model and visually reviewed. The sample is intended for research on PPE compliance detection from surveillance viewpoints. No model has been trained or benchmarked on it.</p>",
+  "creators": [
+    {
+      "name": "Simuletic"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "keywords": [
+    "computer vision",
+    "synthetic data",
+    "CCTV",
+    "object detection",
+    "YOLO",
+    "COCO",
+    "PPE detection",
+    "hard hat detection",
+    "safety vest detection",
+    "construction safety",
+    "workplace safety"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Simuletic/cctv-ppe-compliance-detection-dataset",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://simuletic.com/datasets/cctv-ppe-compliance-detection-dataset",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "version": "2026-11"
+}

@@ -1,0 +1,6 @@
+# Free sample of the CCTV PPE Compliance Detection Dataset by Simuletic (https://simuletic.com)
+# Same layout as the full 1K dataset, so the same code trains on both.
+train: images/train
+val: images/val
+nc: 9
+names: [person, hardhat, hardhat_wrong, no_hardhat, vest, vest_wrong, no_vest, gloves, no_gloves]

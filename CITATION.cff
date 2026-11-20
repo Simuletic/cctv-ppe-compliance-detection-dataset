@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "CCTV PPE Compliance Detection Dataset: synthetic CCTV images with YOLO and COCO labels"
+authors:
+  - name: Simuletic
+    website: "https://simuletic.com"
+    email: contact@simuletic.com
+repository-code: "https://github.com/Simuletic/cctv-ppe-compliance-detection-dataset"
+url: "https://simuletic.com/datasets/cctv-ppe-compliance-detection-dataset"
+license: CC-BY-NC-4.0
+version: "2026-11"
+date-released: "2026-11-20"
+keywords:
+  - computer-vision
+  - synthetic-data
+  - cctv
+  - object-detection
+  - yolo
+  - dataset
+  - ppe-detection
+  - hard-hat-detection
+  - safety-vest-detection
+  - construction-safety
+  - workplace-safety
