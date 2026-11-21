@@ -1,4 +1,4 @@
-# CCTV Construction PPE Compliance Detection Dataset: free sample (synthetic CCTV, YOLO + COCO)
+# CCTV Construction PPE Compliance Detection Dataset: free sample (CCTV, YOLO + COCO)
 
 **Detect PPE violations, not just PPE.** Synthetic fixed-CCTV images of workers whose hard hats, hi-vis vests and gloves are worn correctly, worn wrongly or missing, with YOLO and COCO boxes in 9 classes: 200 free images here, 1,000 in the full dataset.
 
@@ -143,7 +143,7 @@ The images and labels in this sample are licensed under [CC BY-NC 4.0](https://c
 ```bibtex
 @misc{simuletic_ppe_2026,
   author       = {{Simuletic}},
-  title        = {CCTV PPE Compliance Detection Dataset: synthetic CCTV images with YOLO and COCO labels},
+  title        = {CCTV PPE Compliance Detection Dataset: CCTV images with YOLO and COCO labels},
   year         = {2026},
   publisher    = {Simuletic},
   howpublished = {\url{https://simuletic.com/datasets/cctv-ppe-compliance-detection-dataset}},
